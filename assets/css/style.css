@@ -72,6 +72,9 @@
  p.xlarge{
      font-size: 28px;
 } */
+.fontMedium{
+     font-weight: 500;
+}
 .paragraph{
      font-size: 18px;
 }
@@ -98,7 +101,8 @@
  .bannerArea{
      background:url(https://storage.googleapis.com/content.ezadtv.com/2023/02/20/63f3c642708a6_Ellipse_1_1_2_.webp) no-repeat;
      background-position: center;
-     background-size: 145% 132%;
+     background-size: 120% 118%;
+     
 }
 .bannerArea1{
      background:url(https://storage.googleapis.com/content.ezadtv.com/2022/12/28/63ac6d4189e30_bannerBg.webp) center center no-repeat;  
@@ -244,14 +248,14 @@
      right: 0;
      top: -1000px;
 }
- .eventsSlider::after {
+ /* .eventsSlider::after {
      background: #08030F;
      left: 0;
      top: 0;
      height: 100%;
      opacity: 0.6;
      width: 85px;
-}
+} */
  .eventsSlider .slick-active + .slick-active + .slick-active ~ .slick-slide {
      opacity: 0.2;
 }
