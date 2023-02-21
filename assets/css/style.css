@@ -32,46 +32,6 @@
      border-color: var(--theme-button-color);
      color: var(--dark-text-color);
 }
-/* Headings */
- /* h1, h2, h3{
-     font-weight: bold;
-}
- h1, .h1{
-     font-size: 56px;
-     line-height: 67px;
-}
- h2{
-     font-size: 48px;
-}
- h3{
-     font-size: 40px;
-     line-height: 43px;
-}
- h3.small{
-     font-size: 32px;
-}
- h4{
-     font-size: 28px;
-}
- h5{
-     font-size: 24px;
-}
- h6{
-     font-size: 20px;
-}
- p{
-     font-size: 18px;
-     font-weight: 400;
-}
- p.small, .small-text{
-     font-size: 14px;
-}
- p.large{
-     font-size: 24px;
-}
- p.xlarge{
-     font-size: 28px;
-} */
 .fontMedium{
      font-weight: 500;
 }
@@ -101,7 +61,8 @@
  .bannerArea{
      background:url(https://storage.googleapis.com/content.ezadtv.com/2023/02/20/63f3c642708a6_Ellipse_1_1_2_.webp) no-repeat;
      background-position: center;
-     background-size: 120% 118%;
+     background-size: 120% 150%;
+     background-position-y: -280px;
      
 }
 .bannerArea1{
