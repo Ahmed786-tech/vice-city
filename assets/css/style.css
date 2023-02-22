@@ -38,6 +38,9 @@
 .paragraph{
      font-size: 18px;
 }
+.small-text{
+font-size: 14px;
+}
  .shadow-heading{
      text-shadow: -1px 0px 0px rgba(94, 248, 255, 0.8), 2px 0px 0px rgba(237, 65, 171, 0.4);
 }
@@ -61,8 +64,8 @@
  .bannerArea{
      background:url(https://storage.googleapis.com/content.ezadtv.com/2023/02/20/63f3c642708a6_Ellipse_1_1_2_.webp) no-repeat;
      background-position: center;
-     background-size: 120% 150%;
-     background-position-y: -280px;
+     background-size: 120% 145%;
+     background-position-y: -300px;
      
 }
 .bannerArea1{
