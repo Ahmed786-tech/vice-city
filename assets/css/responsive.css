@@ -28,44 +28,10 @@
          width: 670px;
          height: 450px;
     }
-     h4 {
-         font-size: 24px;
-    }
+    
 }
  @media only screen and (max-width:1199px){
-     h1, .h1 {
-         font-size: 48px;
-    }
-     h2{
-         font-size: 40px;
-    }
-     h3{
-         font-size: 34px;
-         line-height: 48px;
-    }
-     h3.small {
-         font-size: 28px;
-         line-height: 33px;
-    }
-     h4{
-         font-size: 24px;
-    }
-     h5{
-         font-size: 20px;
-    }
-     h6{
-         font-size: 18px;
-    }
-     p{
-         font-size: 16px;
-         font-weight: 400;
-    }
-     p.large {
-         font-size: 20px;
-    }
-     p.small, .small-text{
-         font-size: 14px;
-    }
+   
      .eventsSection::before {
          width: 100%;
          top: 0;
@@ -103,26 +69,7 @@
      .eventsSection img, .what-we-do img{
          max-width: 100%;
     }
-     p.xlarge {
-         font-size: 24px;
-    }
-     h6 {
-         font-size: 15px;
-    }
-     h1, .h1 {
-         font-size: 36px;
-         line-height: 50px;
-    }
-     h2 {
-         font-size: 33px;
-    }
-     h3 {
-         font-size: 30px;
-         line-height: 40px;
-    }
-     .future-awaits p {
-         font-size: 17px;
-    }
+   
      .future-awaits::before {
          width: 50%;
          height: 430px;
@@ -188,16 +135,11 @@
      .eventsSlider .slick-next.slick-arrow {
          right: 27px;
     }
-     h2 {
-         font-size: 28px;
-    }
+    
      .bg-area-gradiant {
          background-size: 100% 2px;
     }
-     h1, .h1 {
-         font-size: 32px;
-         line-height: 40px;
-    }
+    
      .bannerArea {
          background-size: 600px;
     }
@@ -210,25 +152,11 @@
          position: relative;
          display: block;
     }
-     h4 {
-         font-size: 18px;
-    }
-     p.large {
-         font-size: 16px;
-    }
+    
      .help-section .card img {
          max-width: 45px;
     }
-     p {
-         font-size: 14px;
-    }
-     h3.small {
-         font-size: 24px;
-         line-height: 30px;
-    }
-     .team-section h6 {
-         font-size: 16px;
-    }
+    
      #navbarSupportedContent ul{
          max-width: 540px;
     }
@@ -238,5 +166,12 @@
      .triangelBg::before {
     max-width: 100%;
 }
+.ellipse-3{
+    background: radial-gradient( #8521aa, #080815, transparent) left  no-repeat;
+    background-position: 600px;
+    
 }
+
+}
+
  
