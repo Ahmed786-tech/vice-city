@@ -63,7 +63,7 @@ font-size: 14px;
 }
 /* Bnnare Area */
  .bannerArea{
-     background: radial-gradient(ellipse at center, #8d19b7, #080815, transparent) no-repeat;
+     background: radial-gradient(ellipse at center, #701b8f, #080815, transparent) no-repeat;
      background-size: 126% 138%;
      background-position: center;
      
@@ -99,10 +99,7 @@ font-size: 14px;
 
      /* background:url(https://storage.googleapis.com/content.ezadtv.com/2023/02/20/63f3dc36bc245_Ellipse_4.webp) no-repeat;
      background-position: center;
-     background-size: 137% 114%; */
-    
-
-     
+     background-size: 137% 114%; */     
 }
 /* Future Section */
  .future-awaits::before {
@@ -204,29 +201,13 @@ font-size: 14px;
      position: absolute;
 }
 
- /* .eventsSection::before {
-     background: radial-gradient( #8521aa, #080815, transparent)  no-repeat;
-     height: 2000px;
-     position: absolute;
-     left: 60%;
-     top: -1000px;
-    
-     filter: blur(400px);
-
-} */
+ 
 .ellipse-3{
      background: radial-gradient( #8521aa, #080815, transparent) left  no-repeat;
      background-position: 900px;
      
 }
- /* .eventsSlider::after {
-     background: #08030F;
-     left: 0;
-     top: 0;
-     height: 100%;
-     opacity: 0.6;
-     width: 85px;
-} */
+
  .eventsSlider .slick-active + .slick-active + .slick-active ~ .slick-slide {
      opacity: 0.2;
 }

@@ -54,6 +54,10 @@
      .eventsSlider .slick-active + .slick-active {
          opacity: 0.2;
     }
+    .ellipse-3{
+        background: radial-gradient( #8521aa, #080815, transparent) left  no-repeat;
+        background-position: 700px;     
+   }
 }
  @media only screen and (max-width:1023px){
      .future-awaits::before {
@@ -68,7 +72,12 @@
  @media only screen and (max-width:991px){
      .eventsSection img, .what-we-do img{
          max-width: 100%;
+         
     }
+    .ellipse-3{
+        background: radial-gradient( #8521aa, #080815, transparent) left  no-repeat;
+        background-position: 670px;     
+   }
    
      .future-awaits::before {
          width: 50%;
@@ -168,7 +177,7 @@
 }
 .ellipse-3{
     background: radial-gradient( #8521aa, #080815, transparent) left  no-repeat;
-    background-position: 600px;
+    background-position: 650px;
     
 }
 
